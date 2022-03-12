@@ -2,7 +2,8 @@
 
 ## Ben bir Geliştirici, Tasarımcı ve WordPress Uzmanıyım.
 
-- İnternet sitem: [The Prevo][website]
+- İnternet Sitem: [theprevo.net][website]
+- Kişisel İnternet Sitem: [mertcendik.org][website2]
 
 ### Kodlama Dilleri ve Araçlar:
 
@@ -29,3 +30,4 @@
 </details>
 
 [website]: https://theprevo.net
+[website2]: https://mertcendik.org
