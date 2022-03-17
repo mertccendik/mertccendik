@@ -22,6 +22,8 @@
 <br>
 <br>
 
+(https://lanyard.cnrad.dev/api/880471472550871051)](https://discord.com/users/880471472550871051)
+
 <details>
   <summary>GitHub İstatistiklerim</summary>
 
